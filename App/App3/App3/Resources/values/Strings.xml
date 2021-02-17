@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="openCamera">Open Camera</string>
+  <string name="app_name"> bum</string>
+  <string-array name="context_menu_items">
+    <item>Edytuj</item>
+    <item>Usuń</item>
+  </string-array>
+</resources>
